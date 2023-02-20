@@ -1,4 +1,4 @@
-# Sentiment Analysis
+# sentimentAnalysis
 
 This project is aimed at performing sentiment analysis on textual data using natural language processing techniques. The goal is to classify the sentiment of a given piece of text as positive, negative or neutral.
 
